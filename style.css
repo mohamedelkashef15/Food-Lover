@@ -95,7 +95,7 @@ header .content {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 75%; /* Add exmple of greeen background */
+  height: 75%; 
 }
 
 header::before {
